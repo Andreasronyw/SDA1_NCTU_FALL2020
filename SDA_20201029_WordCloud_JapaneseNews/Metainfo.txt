@@ -1,0 +1,17 @@
+Name of Quantlet : SDA_20201029_WordCloud_JapaneseNews
+Published in : SDA1_NCTU_FALL2020
+Description :
+- Preprocessing Japanese text from Yahoo
+- Create a wordcloud based on the text
+
+Keywords :
+- Python
+- Teaching
+- Natural Language Processing
+- Japanese Text
+- Wordcloud
+- Support vector machine
+- Sentiment classification
+
+Author : Junjie Hu
+Submitted by Andreas Rony Wijaya (2020/10/29)
