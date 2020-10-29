@@ -1,0 +1,10 @@
+Name of Quantlet : pregnant_shark_wiggle
+
+Description : Use complex numbers as parameters to fit an pregnant shark that wiggling. Creates an MP4 file of the wiggling pregnant shark
+
+Keywords : 
+- Complex analysis
+- Fourier Transform
+- Pregnant Shark Wiggling
+
+Author : Andreas Rony Wijaya, NCTU 20201028
